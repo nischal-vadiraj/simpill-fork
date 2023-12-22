@@ -1,7 +1,7 @@
 ![alt text](fastlane/metadata/android/en-US/images/featureGraphic.png)
 
 
-Original source to this project - https://gitlab.com/simpilldev/simpill.git , all credit goes here.
+Original source to the project - https://gitlab.com/simpilldev/simpill.git , all credit goes here.
 
 
 # Simpill
